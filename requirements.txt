@@ -6,3 +6,4 @@ quantstats
 gurobipy
 ipython
 argparse
+cvxpy
